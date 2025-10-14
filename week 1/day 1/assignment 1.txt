@@ -1,0 +1,19 @@
+1. Done
+
+2. Remote repository: https://github.com/chinni-03/Cigna_Training_Assignments
+
+3. touch emp.component.ts emp.component.html
+
+4. git pull
+
+5. updated emp.component.html
+	touch depts.component.html depts.component.ts
+
+6. git status
+
+7. git add -A
+	git status
+
+8. git commit -m "Assignment 1 complete"
+
+9. git push
