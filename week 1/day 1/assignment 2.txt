@@ -1,0 +1,14 @@
+1.   What does git stash do?
+      git stash is used to save and index the current changes in the current working directory without commiting it, so that the developer can move out of the current branch, work on another branch and can return to the previously working branch and then git stash pop it to work on the changes that was stashed before checking out.
+2.   What does git log show?
+      git log shows the history of a git repository
+3.   What does git branch do?
+      git branch is used to branch the repository into several branches so that multiple people can collaborate and work on several different tasks or work on the same task with different approaches
+4.   What does git checkout do?
+      git checkout is used to switch between branches of a repository
+5.   How to implement merging in git? 
+      git merge <branch-name> is the command used to merge a particular branch with the current branch that we ae working with.
+6.   Diff. between  merge and rebase?
+      merge is used to combine the final change of another branch with the current branch, while rebase is used to linearly place another branch over the current one to compare the changes and then accept the modifications.
+7.   What is .gitignore used for? 
+      .gitignore file contains a list of files or folders that are to be ignored before the local repository changes are pushed to the remote repository.
