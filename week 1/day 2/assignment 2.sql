@@ -1,8 +1,3 @@
-DROP TABLE OrderDetails;
-DROP TABLE Orders;
-DROP TABLE Customer;
-DROP TABLE Product;
-
 CREATE TABLE Product(
   Product_id NUMBER NOT NULL PRIMARY KEY,
   Product_name VARCHAR(50) NOT NULL,
