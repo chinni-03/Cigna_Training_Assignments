@@ -94,7 +94,7 @@ def calc2(x, y):
     result = res(sum=sum, diff=diff, prod=prod, quo=quo)
     return result
 
-print(f'namedtuple: {calc2}')
+print(f'namedtuple: {calc2(1, 2)}')
 
 # -----------------------
 # using modules.py
